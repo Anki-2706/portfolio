@@ -81,7 +81,7 @@ http://localhost/portfolio/index.xhtml
 GitHub Pages Deployment
 
 Link:
-https://Anki-2706.github.io/PORTFOLIO/
+https://Anki-2706.github.io/portfolio/
 
 Author
 
